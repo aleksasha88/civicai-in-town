@@ -5,6 +5,7 @@ email: aleksasha@example.com
 theme: jekyll-theme-cayman    # Changes the entire layout of your site
 show_downloads: true          # A specific theme setting to show/hide download buttons
 
+repository: ""
 url: "https://aleksasha88.github.io" 
 baseurl: "/civicai-in-town" 
 
