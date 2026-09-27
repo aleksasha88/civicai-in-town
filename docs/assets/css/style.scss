@@ -1,0 +1,11 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Hide "This site is open source. Improve this page." */
+.site-footer, 
+.site-footer-owner, 
+.site-footer-credits { 
+  display: none !important; 
+  visibility: hidden !important;
+}
