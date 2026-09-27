@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Civic AI in Town - home page
+title: Civic AI in Town
 ---
