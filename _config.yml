@@ -2,8 +2,8 @@ title: Civic AI in Town
 description: initial documentation 
 author: AlekSasha
 email: aleksasha@example.com
-theme: jekyll-theme-cayman    # Changes the entire layout of your site
-show_downloads: true          # A specific theme setting to show/hide download buttons
+
+remote_theme: pages-themes/cayman
 
 repository: ""
 url: "https://aleksasha88.github.io"          
@@ -19,5 +19,6 @@ exclude:
   - draft_notes/    # Ignore an entire folder of rough drafts
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
