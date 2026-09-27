@@ -1,0 +1,23 @@
+title: Civic AI in Town
+description: initial documentation 
+author: AlekSasha
+email: aleksasha@example.com
+theme: jekyll-theme-cayman    # Changes the entire layout of your site
+show_downloads: true          # A specific theme setting to show/hide download buttons
+
+url: "https://github.io"          # Your main domain
+baseurl: "/civicai-in-town"       # The subfolder for your specific project
+
+nav_order:
+  - index.md
+  - installation.md
+  - usage.md
+
+exclude:
+  - README.md       # Keep the GitHub readme from becoming a webpage
+  - draft_notes/    # Ignore an entire folder of rough drafts
+  - Vendor/         # Ignore internal code folders
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
