@@ -1,1 +1,1 @@
-Civic AI in Town
+CIVIC AI IN TOWN
