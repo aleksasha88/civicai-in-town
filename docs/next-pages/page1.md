@@ -1,1 +1,5 @@
-Page 1
+
+---
+layout: default
+title: Page 1
+---
