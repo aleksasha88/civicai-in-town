@@ -3,7 +3,7 @@ description: initial documentation
 author: AlekSasha
 email: aleksasha@example.com
 
-remote_theme: pages-themes/cayman
+remote_theme: just-the-docs/just-the-docs
 
 repository: ""
 url: "https://aleksasha88.github.io"          
