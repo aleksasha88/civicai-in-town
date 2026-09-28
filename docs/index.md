@@ -6,16 +6,30 @@ has_children: true
 ---
 
 # Welcome to Civic AI in Town
-**Civic AI** is artificial intelligence designed to answer directly to the people it affects, rather than acting as a universal, top-down governing authority. Defined by Taiwan's former Digital Minister and cyber ambassador Audrey Tang, Civic AI shifts the focus of technology from automating labor or centralizing control to building small, community-owned systems that people can inspect, correct, and switch off. 
+## Civic AI: Core Principles and Framework
+Civic AI is artificial intelligence designed to answer directly to the people it affects, rather than acting as a universal, top-down governing authority. Pioneered by digital democracy thinkers like **Audrey Tang** (Taiwan’s former Digital Minister and Cyber Ambassador) and **Glen Weyl** in their work on [Plurality](https://plurality.net), this approach shifts the focus of technology away from centralizing control or treating AI as a "centralized oracle". Instead, Civic AI integrates into the emerging paradigm of pro-social AI and collaborative digital governance. It uses advanced technologies to build small, community-owned systems that strengthen public discourse, expand collective intelligence, and protect democratic structures.
 
-## Core Concepts of Civic AI
-**Local Accountability**: Instead of one massive cloud model trying to rule everyone, Civic AI uses many small, bounded systems deployed at a community scale.
+The following six concepts operate as the core principles of Civic AI, translating the ethics of civic care into technical workflows.
 
-**The "Kami"**: Tang uses the term Kami (a spirit of place or local knowledge artifact) to describe these specialized, local stewards that handle specific community tasks and are easily replaceable when needs change.
+### **Broad Listening (Listening at Scale)**
+Traditional civic engagement struggles to parse high volumes of complex public input. In a Civic AI framework, Broad Listening deploys human-centered AI to help institutions process large volumes of qualitative civic data, open public records, and public feedback. Instead of using technology to censor or dictate, tools like Pol.is or Alignment Assemblies allow governments to discover nuanced common ground across thousands of diverse viewpoints simultaneously. [6-Pack of Care](https://civic.ai) 
 
-**[The 6-Pack of Care](https://civic.ai)**: Grounded in political philosopher Joan Tronto's work on the ethics of care, this framework relies on six design principles: attentiveness, responsibility, competence, responsiveness, solidarity, and symbiosis.
+### **Plurality (Collaborative Diversity)** 
+Instead of building a singular, "monoculture" AI intended to answer every question for every person, Plurality champions technology that honors human differences. This ensures that algorithms do not flatten distinct cultural nuances, but rather bridge gaps between fragmented communities to optimize for mutual understanding, consensus, and cooperative action.
 
-**Broad Listening and Social Translation**: Rather than fueling polarization like traditional social media, Civic AI tools (such as Pol.is or structured deliberation agents) summarize large groups of diverse inputs to help citizens find common ground and shared agreements. 
+### Data as Soil (Regenerative Governance)** 
+This principle reframes the dominant "Data is the new oil" narrative. While oil is an extractive, finite commodity that results in monopolies and pollution, Data as Soil treats data as a living environment tended by local stewards. Civic AI models applying this principle are community-shaped and context-aware, enriching the local public square rather than draining community data into private corporate servers.
+
+### **Digital Literacy (and AI Literacy)**
+Civic participation in the 21st century requires that citizens understand the structural mechanics of the tools they use. Under Civic AI, literacy goes beyond learning how to use software. It involves equipping the public to recognize algorithmic bias, question automated public policy, counter misinformation, and understand how and when it is appropriate to use AI-driven tools.
+
+### **Digital Self-Determination**
+This principle ensures that individuals and communities retain sovereignty over their own data, digital identities, and online futures. 
+Civic AI explicitly rejects invasive surveillance and subtle cognitive manipulation by big tech. It demands that communities have the right to inspect, correct, switch off, choose, or entirely opt-out of algorithmic systems that affect their physical or civic well-being.
+
+### **Digital Democracy**
+The overarching umbrella of Civic AI is to build Digital Democracy by utilizing technology as foundational civic infrastructure. The ultimate goal is to move past top-down technocracy and instead embed AI directly into transparent voting, public service allocation, legislative deliberation, and decentralized governance systems.
+
 
 ## The Core Details of Tang's FOSS AI Framework
 Audrey Tang’s approach to Open-Source Freedoms (FOSS) in Artificial Intelligence reframes the original four foundational software freedoms—originally established by the free software movement—as crucial civic muscles needed to govern AI democratically. [1](https://www.stairjournal.com/oped/2026/6/27/civic-ai-and-the-muscles-of-care-reflections-from-ambassador-audrey-tang), [2](https://www.philosophy.ox.ac.uk/article/digest-week-4-trinity-term-2026), [3](https://english.cw.com.tw/article/article.action?id=3795)
