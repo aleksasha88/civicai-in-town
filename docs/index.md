@@ -6,12 +6,8 @@ has_children: true
 ---
 
 # Welcome to Civic AI in Town
-[![Sign Up Now](https://shields.io)](https://docs.google.com/forms/d/e/1FAIpQLSeT6LQdb_MovgTUG9a5AOEwn4o8cuGo0jRJt9Nv5j8whlf5cw/viewform?usp=publish-editor)
-
 > 🚀 **Ready to join?** 
 > Please fill out our [Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSeT6LQdb_MovgTUG9a5AOEwn4o8cuGo0jRJt9Nv5j8whlf5cw/viewform?usp=publish-editor) to get started. Registration takes less than a minute!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeT6LQdb_MovgTUG9a5AOEwn4o8cuGo0jRJt9Nv5j8whlf5cw/viewform?usp=publish-editor/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## What is **Civic AI**?
 ### Core Principles and Frameworks
