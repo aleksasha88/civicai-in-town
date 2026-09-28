@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # Welcome to Civic AI in Town
-## Civic AI: Core Principles and Frameworks
+## What is **Civic AI**: Core Principles and Frameworks
 **Civic AI** is a rapidly expanding movement focused on the responsible deployment of artificial intelligence in public service and governance. The field features a diverse ecosystem of global players: it is anchored by academic and ethical hubs like the **MIT Media Lab** and the **Oxford Institute for Ethics in AI**, driven by democratic engineering collectives like **RadicalxChange** and the **Noēsis Collaborative**, and ultimately brought to life by municipal and resident innovators like <span style="color:red">**you and me**</span> who adapt these global concepts and attune the tools to the unique needs of a specific town or project, no matter how small it may be.
 
 While these organizations lay the technical and logistical groundwork for public sector AI, the **Civic AI in Town** Initiative focuses specifically on a shared vision and community playbook built on [Plurality](https://plurality.net) and the [6-Pack of Care](https://civic.ai). Under this resident-first lens, **Civic AI** is artificial intelligence designed to answer directly to the people it affects, rather than acting as a universal, top-down governing authority. Pioneered by digital democracy thinkers like **Audrey Tang** (Taiwan’s former Digital Minister and Cyber Ambassador), **Glen Weyl**, and **Dr. Caroline Green**, this approach shifts technology away from centralizing control or treating AI as a "centralized oracle." Instead, it integrates into the emerging paradigm of pro-social, collaborative digital governance. 
