@@ -17,7 +17,7 @@ Traditional civic engagement struggles to parse high volumes of complex public i
 ### **Plurality (Collaborative Diversity)** 
 Instead of building a singular, "monoculture" AI intended to answer every question for every person, Plurality champions technology that honors human differences. This ensures that algorithms do not flatten distinct cultural nuances, but rather bridge gaps between fragmented communities to optimize for mutual understanding, consensus, and cooperative action.
 
-### Data as Soil (Regenerative Governance)** 
+### **Data as Soil (Regenerative Governance)** 
 This principle reframes the dominant "Data is the new oil" narrative. While oil is an extractive, finite commodity that results in monopolies and pollution, Data as Soil treats data as a living environment tended by local stewards. Civic AI models applying this principle are community-shaped and context-aware, enriching the local public square rather than draining community data into private corporate servers.
 
 ### **Digital Literacy (and AI Literacy)**
