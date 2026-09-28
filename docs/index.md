@@ -6,6 +6,13 @@ has_children: true
 ---
 
 # Welcome to Civic AI in Town
+[![Sign Up Now](https://shields.io)](YOUR_GOOGLE_FORM_URL_HERE)
+
+> 🚀 **Ready to join?** 
+> Please fill out our [Sign-Up Form](YOUR_GOOGLE_FORM_URL_HERE) to get started. Registration takes less than a minute!
+
+<iframe src="YOUR_GOOGLE_FORM_URL_HERE/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## What is **Civic AI**: Core Principles and Frameworks
 **Civic AI** is a rapidly expanding movement focused on the responsible deployment of artificial intelligence in public service and governance. The field features a diverse ecosystem of global players: it is anchored by academic and ethical hubs like the **MIT Media Lab** and the **Oxford Institute for Ethics in AI**, driven by democratic engineering collectives like **RadicalxChange** and the **Noēsis Collaborative**, and ultimately brought to life by municipal and resident innovators like <span style="color:red">**you and me**</span> who adapt these global concepts and attune the tools to the unique needs of a specific town or project, no matter how small it may be.
 
