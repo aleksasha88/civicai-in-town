@@ -7,9 +7,9 @@ has_children: true
 
 # Welcome to Civic AI in Town
 ## Civic AI: Core Principles and Frameworks
-Civic AI is a rapidly expanding movement focused on the responsible deployment of artificial intelligence in public service and governance. The field features a diverse ecosystem of global players: it is anchored by academic and ethical hubs like the MIT Media Lab and the Oxford Institute for Ethics in AI, driven by democratic engineering collectives like RadicalxChange and the Noēsis Collaborative, and ultimately brought to life by municipal and resident innovators like you and me who adapt these global concepts and attune the tools to the unique needs of a specific town or project, no matter how small it may be.
+**Civic AI** is a rapidly expanding movement focused on the responsible deployment of artificial intelligence in public service and governance. The field features a diverse ecosystem of global players: it is anchored by academic and ethical hubs like the **MIT Media Lab** and the **Oxford Institute for Ethics in AI**, driven by democratic engineering collectives like **RadicalxChange** and the **Noēsis Collaborative**, and ultimately brought to life by municipal and resident innovators like **you and me** who adapt these global concepts and attune the tools to the unique needs of a specific town or project, no matter how small it may be.
 
-While these organizations lay the technical and logistical groundwork for public sector AI, the Civic AI in Town Initiative focuses specifically on a shared vision and community playbook built on [Plurality](https://plurality.net) and the [6-Pack of Care](https://civic.ai). Under this resident-first lens, **Civic AI** is artificial intelligence designed to answer directly to the people it affects, rather than acting as a universal, top-down governing authority. Pioneered by digital democracy thinkers like Audrey Tang (Taiwan’s former Digital Minister and Cyber Ambassador), Glen Weyl, and Dr. Caroline Green, this approach shifts technology away from centralizing control or treating AI as a "centralized oracle." Instead, it integrates into the emerging paradigm of pro-social, collaborative digital governance. By marrying these concepts, our **Civic AI in Town** initiative leverages advanced technologies to build small, community-owned systems that strengthen public discourse, expand collective intelligence, and protect democratic structures right here in our town.
+While these organizations lay the technical and logistical groundwork for public sector AI, the **Civic AI in Town** Initiative focuses specifically on a shared vision and community playbook built on [Plurality](https://plurality.net) and the [6-Pack of Care](https://civic.ai). Under this resident-first lens, **Civic AI** is artificial intelligence designed to answer directly to the people it affects, rather than acting as a universal, top-down governing authority. Pioneered by digital democracy thinkers like **Audrey Tang** (Taiwan’s former Digital Minister and Cyber Ambassador), **Glen Weyl**, and **Dr. Caroline Green**, this approach shifts technology away from centralizing control or treating AI as a "centralized oracle." Instead, it integrates into the emerging paradigm of pro-social, collaborative digital governance. By marrying these concepts, our **Civic AI in Town** initiative leverages advanced technologies to build small, community-owned systems that strengthen public discourse, expand collective intelligence, and protect democratic structures right here in our town.
 
 To start bringing this vision to life, here are the first several concepts to "inhale":
 
@@ -26,17 +26,39 @@ To start bringing this vision to life, here are the first several concepts to "i
 **Digital Democracy**: Utilizing secure, transparent digital platforms to directly involve residents in the daily planning, budgeting, and lawmaking of our town. This transforms public participation into a continuous, active conversation that directly shapes local life.
 
 ## Turning Concepts into Local Action
-To transition from "inhaling" these principles to actively "exhaling" them into reality, come to play with us, you could take on one hat or multiple or invent your own.
+To transition from "inhaling" these principles to actively "exhaling" them into reality, <span style="color:red">**come to play with us! You can take on one role, try out a few, or pitch your own.**</span>
 
-### Civic AI in Town Roles
+### Civic AI in Town Roles: Techies and Non-Techies Welcome!
+This initiative thrives on a two-way street of **cross-generational mentorship**, where the deep lifeworld wisdom and civic experience of our working and retired residents flows to our high schoolers, while the fluent knowledge of modern digital tools flows from the high schoolers back to the adults. Come to play with us! You can take on one role, try out a few, or pitch your own.
+
+🎥 **The Resident-Reporters**
+Armed with the rich multimedia resources of Public Access Television, these creators document the entire evolution of the **Civic AI in Town** initiative. They produce short video updates, interview neighbors, and broadcast town-wide milestones to keep the community connected. <span style="color:red">_Perfect for high schoolers building a media portfolio or local storytelling enthusiasts._</span>
+
+🛠️ **The Tech-Builders & Explorers**
+This is our multi-talented digital makerspace. Working in tight collaboration with town officials, this team maps out how municipal offices use data and modifies open-source tools to ensure our software stays local, private, and tailored to our town's needs. <span style="color:red">_Ideal for detail-oriented working or retired adults, local developers, high school tech clubs, or anyone who loves mapping systems and tweaking code._</span>
+
+🕸️ **The Consensus-Weavers**
+The interpreters and educators of our collective intelligence. This crew analyzes the visual opinion maps generated by our listening platforms to pull out hidden agreement across groups that traditionally disagree on town issues, while running informal "un-boxing" workshops at the local library to demystify how these community algorithms work. <span style="color:red">_Perfect for critical thinkers, puzzle-lovers, teachers, and anyone who enjoys hosting friendly, non-technical community games._</span>
+
+🗺️ **The Cross-Town Scouts**
+Our long-range lookouts, social heartbeat, and regional bridge-builders. This team tracks how nearby communities navigate public technology, hosts cross-border "Learning Mixers" to share ideas, and bridges the digital divide at home by bringing physical prompts directly to senior centers, farmers' markets, and school clubs. <span style="color:red">_Great for outgoing neighbors, networkers, and anyone who loves traveling across town lines to learn side-by-side with regional friends._</span>
+
+🛡️ The Trust-Guardians
+The core protectors of our local data sovereignty. This vital watchdog crew stands over the project to guarantee that any information gathered stays completely anonymous, treated as precious "local soil" that can never be extracted or sold to outside commercial interests. <span style="color:red">_Best for privacy advocates, community watchdogs, and residents passionate about protecting local democratic structures._</span>
+
+💡 Plus One... or More!
+Create Your Own Path! You can jump into one crew, mix and match pieces of multiple, or invent a completely new role that brings your unique community-oriented ideas to life. Everyone is welcome to play.
+
+
+## Prior version of roles to review
 #### Town-Tech Explorers
-These are our friendly digital cartographers. Instead of running a cold, threatening audit, Explorers map out exactly where and how municipal offices currently utilize automated systems or data, creating a transparent blueprint of our current digital landscape. Ideal for detail-oriented retirees or students looking for local research experience. 
+These are our friendly digital cartographers. In collaboration with town officials, Explorers map out exactly where and how municipal offices currently utilize automated systems or data, creating a transparent blueprint of our current digital landscape. <span style="color:red">_Ideal for detail-oriented retirees or students looking for local research experience._/span>
 
 #### Resident-Reporters
-Armed with the rich multimedia resources of Billerica Access Television (BATV), these creators document the entire evolution of the **Civic AI in Town** initiative. They produce short video updates, interview neighbors, and broadcast town-wide milestones to keep the community connected. Perfect for high schoolers building a media portfolio or local storytelling enthusiasts.
+Armed with the rich multimedia resources of Public Access Television, these creators document the entire evolution of the **Civic AI in Town** initiative. They produce short video updates, interview neighbors, and broadcast town-wide milestones to keep the community connected. <span style="color:red">_Perfect for high schoolers building a media portfolio or local storytelling enthusiasts._/span>
 
 #### Cross-Town Scouts
-Our long-range lookouts and regional bridge-builders. They track how nearby Merrimack Valley communities—like Lowell, Chelmsford, or Burlington—are navigating public technology. Rather than researching in isolation, they host cross-border "Learning Mixers" to swap stories, invite neighboring residents to learn side-by-side, and co-create a regional network of public-interest innovation.
+Our long-range lookouts and regional bridge-builders. They track how nearby communities are navigating public technology. Rather than researching in isolation, they host cross-border "Learning Mixers" to swap stories, invite neighboring residents to learn side-by-side, and co-create a regional network of public-interest innovation.
 
 #### Trust-Guardians
 The core protectors of our local data sovereignty. They ensure that any information gathered throughout our projects stays completely anonymous, treated as precious "local soil" that can never be extracted or sold to outside commercial interests.
