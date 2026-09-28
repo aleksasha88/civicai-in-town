@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Civic AI in Town
+nav_order: 1
+has_children: true
 ---
 
 <style type="text/css">
