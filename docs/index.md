@@ -38,6 +38,6 @@ Supported by cross-generational mentorship linking youth tech fluency with adult
 | 🛡 Consensus-Weavers |	Analyze opinion maps to find hidden consensus and run library workshops demystifying algorithms. | Teachers, critical thinkers, and community game hosts. |
 | 🛡 Cross-Town Scouts | Monitor regional technology trends, host mixers, and bridge the digital divide locally. | Outgoing neighbors and networkers. |
 | 🛡 Trust-Guardians |	Ensure data privacy, anonymity, and protection from outside commercial extraction. | Privacy advocates and community watchdogs. |
-| 💡 Plus One… or More! Create Your Own Path! You can jump into one crew, mix and match pieces of multiple, or invent a completely new role that brings your unique community-oriented ideas to life. | <span style="color:red">Everyone is welcome to play.</span> |
+| 💡 Plus One… or More! | Create Your Own Path! You can jump into one crew, mix and match pieces of multiple, or invent a completely new role that brings your unique community-oriented ideas to life. | <span style="color:red">Everyone is welcome to play.</span> |
 
 
