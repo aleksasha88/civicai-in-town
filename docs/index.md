@@ -11,7 +11,7 @@ has_children: true
 
 ## 🧬 What are Digital Assemblies and Civic AI, and Why Do They Matter?
 
-**Digital Assemblies** are virtual forums where large, diverse groups of citizens collaborate, vote, and co-create policy solutions. Serving as the localized, values-driven technical infrastructure for this framework, **Civic AI** transforms how communities gather, deliberate, and self-govern. Instead of operating as a top-down authority, it provides a community-owned model for collaborative governance. By offering essential civic tools, such as automated moderation, real-time translation, and argument synthesis, Civic AI enables Digital Assemblies to scale democratic discussions well beyond the limits of traditional, in-person town halls.
+**Digital Assemblies** are virtual forums where large, diverse groups of citizens collaborate, vote, and co-create policy solutions. **Civic AI** is a localized, values-driven technical infrastructure that transforms how communities gather, deliberate, and self-govern. By offering essential civic tools, Civic AI enables Digital Assemblies to scale democratic discussions well beyond the limits of traditional, in-person town halls.
 
 Inspired by digital democracy pioneers **Audrey Tang**, **Glen Weyl**, and **Dr. Caroline Green**, the **”Civic AI in Town”** initiative bridges the gap between global technology and local democracy. It leverages the combined framework of [Plurality](https://plurality.net/) and the [6-Pack of Care](https://civic.ai/), to ensure public-interest technology remains small, decentralized, and directly accountable to the communities it serves.
 
