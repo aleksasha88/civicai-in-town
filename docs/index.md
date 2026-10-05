@@ -19,6 +19,7 @@ This resident-first ecosystem thrives on three vital pillars: world-class academ
 
 ## 🧩 Core Principles of the Civic AI in Town
 The initiative relies on six foundational concepts:
+
 | Focus | How do we see it? |
 | -------- | -------- |
 | 🧩 Broad Listening (Listening at Scale)| Building a **Digital Assembly** where local AI maps community opinions in real-time, elevating the voices of quiet participants. |
