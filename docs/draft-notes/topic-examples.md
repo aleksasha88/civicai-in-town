@@ -22,10 +22,10 @@ We plan to use [pol.is](https://pol.is/home2) - an AI-powered, open-source onlin
 	• "Water restrictions should be advisory rather than strictly enforced with fines."
 	• "The town should aggressively use outside grant money to upgrade aging water infrastructure, even if it causes temporary traffic delays."
 
-### Assembly 3. 
-| Economic Growth, Zoning, and Housing Development | Local Context | Why it works for Polis |
+### Assembly 3 
+| Topic | Local Context | Why it works for Polis |
 | -------- | -------- | -------- |
-| Topic  | With Billerica securing funding for site-readiness evaluations of underutilized properties (like Tech Park) and ongoing regional discussions regarding the MBTA Communities Act, balancing Billerica’s suburban character with economic development is a constant theme. | It helps map out what kind of growth the town actually wants, separating absolute anti-development stances from conditional support. |
+|  Economic Growth, Zoning, and Housing Development | With Billerica securing funding for site-readiness evaluations of underutilized properties (like Tech Park) and ongoing regional discussions regarding the MBTA Communities Act, balancing Billerica’s suburban character with economic development is a constant theme. | It helps map out what kind of growth the town actually wants, separating absolute anti-development stances from conditional support. |
 
 #### Sample Seed Statements for the Demo
 
