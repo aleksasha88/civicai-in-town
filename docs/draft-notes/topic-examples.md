@@ -3,6 +3,7 @@ We plan to use pol.is - open source tool
 
 1. Public Safety Surveillance vs. Privacy (The Flock Safety Debate)
 | Local Context | Why it works for Polis |
+| -------- | -------- |
 | The deployment of Flock Safety license plate reader cameras has been a highly visible and debated topic during recent Billerica Select Board meetings. | Why it works for Polis: This topic naturally divides people but allows for consensus on how technology should be governed. While some residents prioritize crime deterrence, others worry about surveillance and data retention.
 
 • Sample Seed Statements for the Demo:
@@ -12,6 +13,7 @@ We plan to use pol.is - open source tool
 
 2. Water Conservation, Bans, and Infrastructure Priorities
 | Local Context | Why it works for Polis |
+| -------- | -------- |
 | Following recent drought-related water restrictions and new grant funding for water and sewer infrastructure upgrades in North Billerica, managing shared resources is top of mind for residents. | It moves the conversation beyond "complaining about water bans" into how residents value environmental sustainability versus personal property convenience.
 
 • Sample Seed Statements for the Demo:
@@ -21,6 +23,7 @@ We plan to use pol.is - open source tool
 
 3. Economic Growth, Zoning, and Housing Development
 | Local Context | Why it works for Polis |
+| -------- | -------- |
 | With Billerica securing funding for site-readiness evaluations of underutilized properties (like Tech Park) and ongoing regional discussions regarding the MBTA Communities Act, balancing Billerica’s suburban character with economic development is a constant theme. | It helps map out what kind of growth the town actually wants, separating absolute anti-development stances from conditional support.
 
 • Sample Seed Statements for the Demo:
