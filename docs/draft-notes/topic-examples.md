@@ -1,5 +1,5 @@
 ## Examples of Topics for a Digital Assembly
-We plan to use pol.is - open source tool
+We plan to use [pol.is](https://pol.is/home2) - an AI-powered, open-source online deliberation platform used to gather public sentiment and build consensus among large groups of people. The tool is designed and maintained by the U.S. nonprofit The [Computational Democracy Project](https://www.google.com/url?sa=i&source=web&rct=j&url=https://compdemocracy.org/&ved=2ahUKEwii7eS9vqaXAxV9F1kFHdsxFt0Qy_kOeggIAggBCA8QAQ&opi=89978449&cd&psig=AOvVaw0l681X8CBWHLjONwvP1JHO&ust=1791413772654000)
 
 ### Assembly 1
 | Topic | Local Context | Why it works for Polis |
