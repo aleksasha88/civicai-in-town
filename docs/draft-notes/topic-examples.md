@@ -1,10 +1,10 @@
 ## Examples of Topics for a Digital Assembly
 We plan to use pol.is - open source tool
 
-1. Public Safety Surveillance vs. Privacy (The Flock Safety Debate)
-| Local Context | Why it works for Polis |
-| -------- | -------- |
-| The deployment of Flock Safety license plate reader cameras has been a highly visible and debated topic during recent Billerica Select Board meetings. | Why it works for Polis: This topic naturally divides people but allows for consensus on how technology should be governed. While some residents prioritize crime deterrence, others worry about surveillance and data retention.
+
+| Topic | Local Context | Why it works for Polis |
+| -------- | -------- | -------- |
+| 1. Public Safety Surveillance vs. Privacy (The Flock Safety Debate) | The deployment of Flock Safety license plate reader cameras has been a highly visible and debated topic during recent Billerica Select Board meetings. | This topic naturally divides people but allows for consensus on how technology should be governed. While some residents prioritize crime deterrence, others worry about surveillance and data retention. |
 
 • Sample Seed Statements for the Demo:
 	• "I support automated license plate readers if they are strictly used to investigate active crimes like stolen vehicles or missing persons."
