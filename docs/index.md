@@ -18,7 +18,7 @@ Inspired by digital democracy pioneers **Audrey Tang**, **Glen Weyl**, and **Dr.
 This resident-first ecosystem thrives on three vital pillars: world-class academic institutions like the MIT Media Lab and the Oxford Institute for Ethics in AI ground us in robust ethical frameworks. Pioneering non-profits like Cortico and RadicalxChange build the open-source, democratic tools needed to rebuild digital civic infrastructure. Finally, <span style="color:red">local innovators like you, techies and non-techies</span>, bring it all to life, using the **Civic AI in Town** initiative to shape these technologies for the unique needs of your community. 
 
 ## 🏛️ Examples of Topics for a Digital Assembly
-We plan to use [pol.is](https://pol.is/home2) - an AI-powered, open-source online deliberation platform used to gather public sentiment and build consensus among large groups of people. The tool is designed and maintained by the U.S. nonprofit The [Computational Democracy Project](https://www.google.com/url?sa=i&source=web&rct=j&url=https://compdemocracy.org/&ved=2ahUKEwii7eS9vqaXAxV9F1kFHdsxFt0Qy_kOeggIAggBCA8QAQ&opi=89978449&cd&psig=AOvVaw0l681X8CBWHLjONwvP1JHO&ust=1791413772654000)
+We plan to use [pol.is](https://pol.is/home2) - an AI-powered, open-source online deliberation platform used to gather public sentiment and build consensus among large groups of people. The tool is designed and maintained by the U.S. nonprofit The [Computational Democracy Project](https://compdemocracy.org)
 
 ### 🏛️ Assembly 1
 
